@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5c814d49.css",
-    "main.js": "/static/js/main.3258109d.js",
+    "main.js": "/static/js/main.fd21b75a.js",
     "static/js/787.93c6db46.chunk.js": "/static/js/787.93c6db46.chunk.js",
     "static/media/genshinBanner.png": "/static/media/genshinBanner.0760c9df969fed95fcb7.png",
     "static/media/jjkbanner-new_MLBB.jpg": "/static/media/jjkbanner-new_MLBB.fe95eb4c5cf5155fb8bb.jpg",
@@ -20,11 +20,11 @@
     "index.html": "/index.html",
     "static/media/search.svg": "/static/media/search.889a902e07e39445aeac2324dc7a77e7.svg",
     "main.5c814d49.css.map": "/static/css/main.5c814d49.css.map",
-    "main.3258109d.js.map": "/static/js/main.3258109d.js.map",
+    "main.fd21b75a.js.map": "/static/js/main.fd21b75a.js.map",
     "787.93c6db46.chunk.js.map": "/static/js/787.93c6db46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c814d49.css",
-    "static/js/main.3258109d.js"
+    "static/js/main.fd21b75a.js"
   ]
 }
