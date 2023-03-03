@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/ranzhop-app/static/css/main.5c814d49.css",
-    "main.js": "/ranzhop-app/static/js/main.14ecb8f5.js",
-    "static/js/787.93c6db46.chunk.js": "/ranzhop-app/static/js/787.93c6db46.chunk.js",
-    "static/media/genshinBanner.png": "/ranzhop-app/static/media/genshinBanner.0760c9df969fed95fcb7.png",
-    "static/media/jjkbanner-new_MLBB.jpg": "/ranzhop-app/static/media/jjkbanner-new_MLBB.fe95eb4c5cf5155fb8bb.jpg",
-    "static/media/brodyMPL_MLBB.jpg": "/ranzhop-app/static/media/brodyMPL_MLBB.7cee758fa66bcc4d018d.jpg",
-    "static/media/ff-new.png": "/ranzhop-app/static/media/ff-new.7d59934084903f57c79b.png",
-    "static/media/ff-banner.jpg": "/ranzhop-app/static/media/ff-banner.dc333323a7a0c5d61183.jpg",
-    "static/media/mlbb-banner-info.jpg": "/ranzhop-app/static/media/mlbb-banner-info.31507312ff4f83131875.jpg",
-    "static/media/LOLWRBanner.png": "/ranzhop-app/static/media/LOLWRBanner.acfc1ae97c00e1351f04.png",
-    "static/media/lolwricon.jpg": "/ranzhop-app/static/media/lolwricon.a199be896fc6c8761bf3.jpg",
-    "static/media/giicon.jpg": "/ranzhop-app/static/media/giicon.0aa52b5c202a513b5d17.jpg",
-    "static/media/ribbon-promo.png": "/ranzhop-app/static/media/ribbon-promo.5d2b3143778d7e5561d4.png",
-    "static/media/mlbb-m4.jpg": "/ranzhop-app/static/media/mlbb-m4.fc4be8ac102984a67625.jpg",
-    "static/media/waev2.svg": "/ranzhop-app/static/media/waev2.587162dbc68c443c29cc23c11464b7af.svg",
-    "static/media/wave.svg": "/ranzhop-app/static/media/wave.cc7f820811d6f21984a8f85c65416742.svg",
-    "static/media/verify.svg": "/ranzhop-app/static/media/verify.3f446744a8f8f293cdba8b8bab1f973c.svg",
-    "index.html": "/ranzhop-app/index.html",
-    "static/media/search.svg": "/ranzhop-app/static/media/search.889a902e07e39445aeac2324dc7a77e7.svg",
-    "main.5c814d49.css.map": "/ranzhop-app/static/css/main.5c814d49.css.map",
-    "main.14ecb8f5.js.map": "/ranzhop-app/static/js/main.14ecb8f5.js.map",
-    "787.93c6db46.chunk.js.map": "/ranzhop-app/static/js/787.93c6db46.chunk.js.map"
+    "main.css": "/ranzhop-app/home/static/css/main.5c814d49.css",
+    "main.js": "/ranzhop-app/home/static/js/main.3d8e5f27.js",
+    "static/js/787.93c6db46.chunk.js": "/ranzhop-app/home/static/js/787.93c6db46.chunk.js",
+    "static/media/genshinBanner.png": "/ranzhop-app/home/static/media/genshinBanner.0760c9df969fed95fcb7.png",
+    "static/media/jjkbanner-new_MLBB.jpg": "/ranzhop-app/home/static/media/jjkbanner-new_MLBB.fe95eb4c5cf5155fb8bb.jpg",
+    "static/media/brodyMPL_MLBB.jpg": "/ranzhop-app/home/static/media/brodyMPL_MLBB.7cee758fa66bcc4d018d.jpg",
+    "static/media/ff-new.png": "/ranzhop-app/home/static/media/ff-new.7d59934084903f57c79b.png",
+    "static/media/ff-banner.jpg": "/ranzhop-app/home/static/media/ff-banner.dc333323a7a0c5d61183.jpg",
+    "static/media/mlbb-banner-info.jpg": "/ranzhop-app/home/static/media/mlbb-banner-info.31507312ff4f83131875.jpg",
+    "static/media/LOLWRBanner.png": "/ranzhop-app/home/static/media/LOLWRBanner.acfc1ae97c00e1351f04.png",
+    "static/media/lolwricon.jpg": "/ranzhop-app/home/static/media/lolwricon.a199be896fc6c8761bf3.jpg",
+    "static/media/giicon.jpg": "/ranzhop-app/home/static/media/giicon.0aa52b5c202a513b5d17.jpg",
+    "static/media/ribbon-promo.png": "/ranzhop-app/home/static/media/ribbon-promo.5d2b3143778d7e5561d4.png",
+    "static/media/mlbb-m4.jpg": "/ranzhop-app/home/static/media/mlbb-m4.fc4be8ac102984a67625.jpg",
+    "static/media/waev2.svg": "/ranzhop-app/home/static/media/waev2.587162dbc68c443c29cc23c11464b7af.svg",
+    "static/media/wave.svg": "/ranzhop-app/home/static/media/wave.cc7f820811d6f21984a8f85c65416742.svg",
+    "static/media/verify.svg": "/ranzhop-app/home/static/media/verify.3f446744a8f8f293cdba8b8bab1f973c.svg",
+    "index.html": "/ranzhop-app/home/index.html",
+    "static/media/search.svg": "/ranzhop-app/home/static/media/search.889a902e07e39445aeac2324dc7a77e7.svg",
+    "main.5c814d49.css.map": "/ranzhop-app/home/static/css/main.5c814d49.css.map",
+    "main.3d8e5f27.js.map": "/ranzhop-app/home/static/js/main.3d8e5f27.js.map",
+    "787.93c6db46.chunk.js.map": "/ranzhop-app/home/static/js/787.93c6db46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c814d49.css",
-    "static/js/main.14ecb8f5.js"
+    "static/js/main.3d8e5f27.js"
   ]
 }
