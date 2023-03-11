@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.1229a4e9.css",
-    "main.js": "/static/js/main.f27f877c.js",
+    "main.js": "/static/js/main.9a609177.js",
     "static/js/787.93c6db46.chunk.js": "/static/js/787.93c6db46.chunk.js",
     "static/media/genshinBanner.png": "/static/media/genshinBanner.0760c9df969fed95fcb7.png",
     "static/media/jjkbanner-new_MLBB.jpg": "/static/media/jjkbanner-new_MLBB.fe95eb4c5cf5155fb8bb.jpg",
     "static/media/brodyMPL_MLBB.jpg": "/static/media/brodyMPL_MLBB.7cee758fa66bcc4d018d.jpg",
     "static/media/ff-new.png": "/static/media/ff-new.7d59934084903f57c79b.png",
+    "static/media/aovico.png": "/static/media/aovico.0c67558bb66705651c17.png",
     "static/media/ff-banner.jpg": "/static/media/ff-banner.dc333323a7a0c5d61183.jpg",
     "static/media/mlbb-banner-info.jpg": "/static/media/mlbb-banner-info.31507312ff4f83131875.jpg",
     "static/media/LOLWRBanner.png": "/static/media/LOLWRBanner.acfc1ae97c00e1351f04.png",
@@ -14,16 +15,17 @@
     "static/media/giicon.jpg": "/static/media/giicon.0aa52b5c202a513b5d17.jpg",
     "static/media/ribbon-promo.png": "/static/media/ribbon-promo.5d2b3143778d7e5561d4.png",
     "static/media/mlbb-m4.jpg": "/static/media/mlbb-m4.fc4be8ac102984a67625.jpg",
+    "static/media/valorantico.jpg": "/static/media/valorantico.b1f5dc775c710566a374.jpg",
     "static/media/waev2.svg": "/static/media/waev2.587162dbc68c443c29cc23c11464b7af.svg",
     "static/media/wave.svg": "/static/media/wave.cc7f820811d6f21984a8f85c65416742.svg",
     "static/media/verify.svg": "/static/media/verify.3f446744a8f8f293cdba8b8bab1f973c.svg",
     "index.html": "/index.html",
     "main.1229a4e9.css.map": "/static/css/main.1229a4e9.css.map",
-    "main.f27f877c.js.map": "/static/js/main.f27f877c.js.map",
+    "main.9a609177.js.map": "/static/js/main.9a609177.js.map",
     "787.93c6db46.chunk.js.map": "/static/js/787.93c6db46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1229a4e9.css",
-    "static/js/main.f27f877c.js"
+    "static/js/main.9a609177.js"
   ]
 }
